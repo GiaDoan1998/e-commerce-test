@@ -78,7 +78,7 @@ const Wrapper = styled.div`
   border-bottom: 1px #b0b0b0 solid;
 `;
 const Nav = styled.nav`
-  background-color: #dedede;
+  background-color: #aca7cb;
   padding: 13px 0;
   display: flex;
   justify-content: flex-start;

@@ -49,7 +49,7 @@ const Typehead = () => {
   // }
   return (
     <Wrapper>
-      <Logo onClick={handleBackToHomepage}>Grade</Logo>
+      <Logo onClick={handleBackToHomepage}>E-commerce</Logo>
       <div className="wrapper-helper">
         <div className="inputContainer">
           <input
@@ -165,7 +165,7 @@ const Typehead = () => {
 };
 
 const Wrapper = styled.div`
-  background-color: #c7c7c7;
+  background-color: #aca7cb;
   display: flex;
   justify-content: space-between;
   /* align-items: center; */

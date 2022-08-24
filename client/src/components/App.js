@@ -61,6 +61,7 @@ const Header = styled.div``;
 const Main = styled.div`
   display: flex;
   height: 100%;
+  background: #c7c7c7;
 `;
 
 const Body = styled.div`
